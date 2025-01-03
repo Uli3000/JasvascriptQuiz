@@ -20,6 +20,6 @@
 ## 🌐 Demo en Vivo | Live Demo
 
 ¡Prueba la aplicación aquí! | Try the application here!  
-[👉 https://javascriptquiz.netlify.app](https://javascriptquiz.netlify.app)
+[👉 [https://myjavascript-quiz.netlify.app](https://myjavascript-quiz.netlify.app)
 
 ---
